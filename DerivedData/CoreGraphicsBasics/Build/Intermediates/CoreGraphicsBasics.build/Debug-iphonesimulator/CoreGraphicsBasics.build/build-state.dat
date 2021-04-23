@@ -1,0 +1,836 @@
+TCoreGraphicsBasics
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/Info.plist" CoreGraphicsBasics/CoreGraphicsBasics-Info.plist
+cProcessPCH "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch.gch" CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/main.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/MyDrawingClass.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/SelectTileViewController.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/TileVIew.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasicsAppDelegate.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/GameStartingView.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/ExisistingImagesViewController.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HowToPlayViewController.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresView.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresTableViewCell.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics" normal i386
+cGenerateDSYMFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics"
+cCopyStringsFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/InfoPlist.strings" CoreGraphicsBasics/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xib"
+cCpResource CoreGraphicsBasics/6.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png
+cCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xib"
+cCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xib"
+cCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib"
+cCpResource CoreGraphicsBasics/1.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.png
+cCpResource CoreGraphicsBasics/2.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.png
+cCpResource CoreGraphicsBasics/3.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png
+cCpResource CoreGraphicsBasics/4.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.png
+cCpResource CoreGraphicsBasics/5.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png
+cCpResource CoreGraphicsBasics/64-60.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.png
+cCpResource CoreGraphicsBasics/80-80.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png
+cCpResource CoreGraphicsBasics/106-120.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png
+cCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xib"
+cCopyPlistFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/gameConstants.plist" CoreGraphicsBasics/gameConstants.plist
+cCpResource CoreGraphicsBasics/white1.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png
+cCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xib"
+cCpResource CoreGraphicsBasics/white.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.png
+cTouch "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000502A9A4C0000000000244490
+t1344969292
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000502A9A4D0000000000353830
+t1344969293
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000502A9A4D0000000000001534
+t1344969293
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000502A9A4F0000000000000BF5
+t1344969295
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000502A9A510000000000905E40
+t1344969297
+s9461312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/Availability.h
+c00000000502A9A590000000000001B57
+t1344969305
+s6999
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/1.png
+c000000004F03E2EE000000000003DF3D
+t1325654766
+s253757
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/106-120.png
+c000000004F0697200000000000000D1C
+t1325831968
+s3356
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/2.png
+c000000004F03E2FC0000000000015B68
+t1325654780
+s88936
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/3.png
+c000000004F03E30E00000000000263BA
+t1325654798
+s156602
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/4.png
+c000000004F03E316000000000003F7A6
+t1325654806
+s260006
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/5.png
+c000000004F03E322000000000004B249
+t1325654818
+s307785
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/6.png
+c000000004F03E1B80000000000023E84
+t1325654456
+s147076
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/64-60.png
+c000000004F0696E00000000000000C6B
+t1325831904
+s3179
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/80-80.png
+c000000004F0696FA0000000000000CB0
+t1325831930
+s3248
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch
+c000000004EE6DA3A0000000000000156
+t1323751994
+s342
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.h
+c000000004F0A7320000000000000053D
+t1326084896
+s1341
+i<UIKit/UIKit.h>
+i"GameStartingView.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m
+c000000004F0FBAC00000000000001153
+t1326430912
+s4435
+i"CoreGraphicsBasicsAppDelegate.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.h
+c000000004F0AC6B400000000000003D7
+t1326106292
+s983
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m
+c000000004F0FB3C400000000000019C1
+t1326429124
+s6593
+i"ExisistingImagesViewController.h"
+i"CoreGraphicsBasicsAppDelegate.h"
+i"SelectTileViewController.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib
+c000000004F03F0240000000000001DDE
+t1325658148
+s7646
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.h
+c000000004F1E924200000000000004D9
+t1327403586
+s1241
+i<UIKit/UIKit.h>
+i"ExisistingImagesViewController.h"
+i"HowToPlayViewController.h"
+i"SelectTileViewController.h"
+i"HighScoresView.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m
+c000000004F1E925800000000000014A1
+t1327403608
+s5281
+i"GameStartingView.h"
+i"CoreGraphicsBasicsAppDelegate.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xib
+c000000004F1F95020000000000003544
+t1327469826
+s13636
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.h
+c000000004F1E91B20000000000000186
+t1327403442
+s390
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m
+c000000004F1EA04A0000000000000482
+t1327407178
+s1154
+i"HighScoresTableViewCell.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.h
+c000000004F1E96FE00000000000001BD
+t1327404798
+s445
+i<UIKit/UIKit.h>
+i"HighScoresTableViewCell.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m
+c000000004F1FA7100000000000000D74
+t1327474448
+s3444
+i"HighScoresView.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xib
+c000000004F1FA7320000000000002446
+t1327474482
+s9286
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.h
+c000000004F06C8BC0000000000000100
+t1325844668
+s256
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m
+c000000004F06CA9A0000000000000589
+t1325845146
+s1417
+i"HowToPlayViewController.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xib
+c000000004F06C8BC0000000000001880
+t1325844668
+s6272
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.h
+c000000004F1F8F560000000000000D05
+t1327468374
+s3333
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m
+c000000004F1F95780000000000007638
+t1327469944
+s30264
+i"MyDrawingClass.h"
+i"CoreGraphicsBasicsAppDelegate.h"
+i"TileVIew.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.h
+c000000004F06C7C80000000000000270
+t1325844424
+s624
+i<UIKit/UIKit.h>
+i"MyDrawingClass.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m
+c000000004F0A69360000000000000F71
+t1326082358
+s3953
+i"SelectTileViewController.h"
+i"CoreGraphicsBasicsAppDelegate.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xib
+c000000004F0FDDF2000000000000378F
+t1326439922
+s14223
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.h
+c000000004F0E74F2000000000000021E
+t1326347506
+s542
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m
+c000000004F0FB5320000000000000A2E
+t1326429490
+s2606
+i"TileVIew.h"
+i"CoreGraphicsBasicsAppDelegate.h"
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/InfoPlist.strings
+c000000004EE6DA3A000000000000002D
+t1323751994
+s45
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xib
+c000000004F02ACCC0000000000001FB2
+t1325575372
+s8114
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/gameConstants.plist
+c000000004F0A8C7800000000000000D9
+t1326091384
+s217
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m
+c000000004EE6DA3A000000000000016F
+t1323751994
+s367
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/white.png
+c000000004F1EA228000000000000123B
+t1327407656
+s4667
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/white1.png
+c000000004F1E4D4E00000000000010FA
+t1327385934
+s4346
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasics.LinkFileList
+c000000005246602F0000000000000AFF
+t1380343855
+s2815
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasicsAppDelegate.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/ExisistingImagesViewController.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/GameStartingView.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresTableViewCell.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresView.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HowToPlayViewController.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/MyDrawingClass.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/SelectTileViewController.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/TileVIew.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch.gch
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/ExisistingImagesViewController.nib
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/GameStartingView.nib
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/HighScoresView.nib
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/HowToPlayViewController.nib
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/Info.plist
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/PkgInfo
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/SelectTileViewController.nib
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/gameConstants.plist
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.png
+t2
+s0
+
+N/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png
+t2
+s0
+
+NCoreGraphicsBasics/CoreGraphicsBasics-Info.plist
+c000000004F06CBD80000000000000571
+t1325845464
+s1393
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m"
+r0
+
+CBuild AST from "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa165c1af97f6b741^9624d7af97f6b741^---0#1#0#--18"Check dependencies36"80FAA52D-A934-458A-9BDD-DB4AB3DD48EB-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasicsAppDelegate.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.306055
+e402036657.450564
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasicsAppDelegate.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection175"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m62864eb197f6b741^ec6973b197f6b741^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m0000000000000000^4074"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasicsAppDelegate.o CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasicsAppDelegate.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasicsAppDelegate.o"36"9CEB9BC3-F42D-48A0-A6DF-E171E45CB358-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/ExisistingImagesViewController.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.388256
+e402036657.541962
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/ExisistingImagesViewController.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m429863b197f6b741^90bd8ab197f6b741^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m0000000000000000^4078"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/ExisistingImagesViewController.o CoreGraphicsBasics/ExisistingImagesViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/ExisistingImagesViewController.o"36"A9DA7544-988E-44CB-A72D-35257B216A66-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/GameStartingView.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.380804
+e402036657.502618
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/GameStartingView.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m7eab61b197f6b741^92af80b197f6b741^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m0000000000000000^4022"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/GameStartingView.o CoreGraphicsBasics/GameStartingView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/GameStartingView.o"36"274B12CF-8C15-4DB0-AB7B-8C69E3358C76-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresTableViewCell.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.522368
+e402036657.589736
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresTableViewCell.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m79e685b197f6b741^48f896b197f6b741^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m0000000000000000^4050"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresTableViewCell.o CoreGraphicsBasics/HighScoresTableViewCell.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresTableViewCell.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresTableViewCell.o"36"80455AEF-5D8B-43E2-A6A8-FEBEE9B3045C-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresView.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.503995
+e402036657.590663
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresView.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m613281b197f6b741^6e3597b197f6b741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m0000000000000000^4014"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresView.o CoreGraphicsBasics/HighScoresView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HighScoresView.o"36"77A40C17-2715-4B64-8DE3-4072C0F3D69E-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HowToPlayViewController.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.451915
+e402036657.536660
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HowToPlayViewController.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.me8de73b197f6b741^176289b197f6b741^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m0000000000000000^4050"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HowToPlayViewController.o CoreGraphicsBasics/HowToPlayViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/HowToPlayViewController.o"36"42A16C5D-0C2B-439A-B4D8-B713BB0BD9A0-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/MyDrawingClass.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.113708
+e402036657.520967
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/MyDrawingClass.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.md95c1db197f6b741^b35d85b197f6b741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m0000000000000000^4014"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/MyDrawingClass.o CoreGraphicsBasics/MyDrawingClass.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/MyDrawingClass.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/MyDrawingClass.o"36"225E6996-8201-469F-874F-09837B4BE136-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/SelectTileViewController.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.113702
+e402036657.379419
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/SelectTileViewController.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.ma75c1db197f6b741^9f2061b197f6b741^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m0000000000000000^4054"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/SelectTileViewController.o CoreGraphicsBasics/SelectTileViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/SelectTileViewController.o"36"B17CE5F6-9E03-4B89-9740-C1D7FDFFA167-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/TileVIew.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.113759
+e402036657.386757
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/TileVIew.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.md5591db197f6b741^344a63b197f6b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m0000000000000000^3990"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/TileVIew.o CoreGraphicsBasics/TileVIew.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/TileVIew.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/TileVIew.o"36"DCA9AAA4-535E-47AC-8F6F-B98C5BFC7855-
+
+CCompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/main.o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036657.113638
+e402036657.304688
+r1
+xCompileC
+xDerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/main.o
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Compile /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.mbc5b1db197f6b741^0dff4db197f6b741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m0000000000000000^3974"CompileC DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/main.o CoreGraphicsBasics/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -include "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/main.m" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/main.o"36"FAEA31F3-2D90-4E1F-903C-FA26BA93444F-
+
+CCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib"
+s402036657.693120
+e402036657.775476
+r1
+xCompileXIB
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection180"Compiling /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib698db1b197f6b741^7286c6b197f6b741^---0#0#0#-19%DVTDocumentLocation2@194"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib0000000000000000^1248"CompileXIB CoreGraphicsBasics/ExisistingImagesViewController.xib    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/ExisistingImagesViewController.nib" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/ExisistingImagesViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"FB2E86B8-00F7-4C2C-8E84-793B208C47C5-
+
+CCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xib"
+s402036657.672643
+e402036657.765610
+r1
+xCompileXIB
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Compiling /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xibe547acb197f6b741^5b0ac4b197f6b741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xib0000000000000000^1206"CompileXIB CoreGraphicsBasics/GameStartingView.xib    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/GameStartingView.nib" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/GameStartingView.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"C73808ED-A595-417A-BAB6-4B5C5714ACE0-
+
+CCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xib"
+s402036657.846254
+e402036657.912093
+r1
+xCompileXIB
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Compiling /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xibfd13dcb197f6b741^527fe9b197f6b741^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xib0000000000000000^1200"CompileXIB CoreGraphicsBasics/HighScoresView.xib    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/HighScoresView.nib" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HighScoresView.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"B725255A-AFDC-4119-A75A-CC8F93A91CFB-
+
+CCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xib"
+s402036657.810267
+e402036657.903435
+r1
+xCompileXIB
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Compiling /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xibd789cfb197f6b741^d653e7b197f6b741^---0#0#0#-19%DVTDocumentLocation2@187"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xib0000000000000000^1227"CompileXIB CoreGraphicsBasics/HowToPlayViewController.xib    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/HowToPlayViewController.nib" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/HowToPlayViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"47B4822A-C142-4F01-A206-F4674597D825-
+
+CCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xib"
+s402036657.676521
+e402036659.216285
+r1
+xCompileXIB
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection174"Compiling /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xibcb48adb197f6b741^076037b397f6b741^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xib0000000000000000^1230"CompileXIB CoreGraphicsBasics/SelectTileViewController.xib    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/SelectTileViewController.nib" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/SelectTileViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"674D3794-BC74-4091-AA12-062554BF9D80-
+
+CCompileXIB "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xib"
+s402036657.672441
+e402036657.696160
+r1
+xCompileXIB
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Compiling /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xiba33bacb197f6b741^f645b2b197f6b741^---0#0#0#-19%DVTDocumentLocation2@183"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xib0000000000000000^1215"CompileXIB CoreGraphicsBasics/en.lproj/MainWindow.xib    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/MainWindow.nib" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/MainWindow.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"8AFA2799-D0EB-4F7B-AD07-68B3B6DB884C-
+
+CCopyPlistFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/gameConstants.plist" CoreGraphicsBasics/gameConstants.plist
+s402036657.816554
+e402036657.836465
+r1
+xCopyPlistFile
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/gameConstants.plist
+xCoreGraphicsBasics/gameConstants.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy CoreGraphicsBasics/gameConstants.plist5b24d1b197f6b741^3238d6b197f6b741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/gameConstants.plist0000000000000000^786"CopyPlistFile DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/gameConstants.plist CoreGraphicsBasics/gameConstants.plist    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app" -- CoreGraphicsBasics/gameConstants.plist36"6211D463-BE27-4F41-B005-E68DAD8DC77E-
+
+CCopyStringsFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/InfoPlist.strings" CoreGraphicsBasics/en.lproj/InfoPlist.strings
+s402036657.672429
+e402036657.675356
+r1
+xCopyStringsFile
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/InfoPlist.strings
+xCoreGraphicsBasics/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy CoreGraphicsBasics/en.lproj/InfoPlist.strings4c38acb197f6b741^65e4acb197f6b741^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/en.lproj/InfoPlist.strings0000000000000000^859"CopyStringsFile DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj/InfoPlist.strings CoreGraphicsBasics/en.lproj/InfoPlist.strings    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/en.lproj" -- CoreGraphicsBasics/en.lproj/InfoPlist.strings36"36A70254-B983-4891-AF94-63D06145EA34-
+
+CCpResource CoreGraphicsBasics/1.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.png
+s402036657.698056
+e402036657.704166
+r1
+xCpResource
+xCoreGraphicsBasics/1.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.pngc4ccb2b197f6b741^9b54b4b197f6b741^---0#0#0#-19%DVTDocumentLocation2@237"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.png000000000080d041^920"CpResource CoreGraphicsBasics/1.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/1.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/1.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"22A8E29C-B995-48D3-9761-A8C72D781420-
+
+CCpResource CoreGraphicsBasics/106-120.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png
+s402036657.796454
+e402036657.812509
+r1
+xCpResource
+xCoreGraphicsBasics/106-120.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png54fccbb197f6b741^dd07d0b197f6b741^---0#0#0#-19%DVTDocumentLocation2@243"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png000000000080d041^938"CpResource CoreGraphicsBasics/106-120.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/106-120.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/106-120.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"8605014A-7EA1-4D38-BEA0-0D0443E94F69-
+
+CCpResource CoreGraphicsBasics/2.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.png
+s402036657.707663
+e402036657.746805
+r1
+xCpResource
+xCoreGraphicsBasics/2.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.pngfa41b5b197f6b741^a92fbfb197f6b741^---0#0#0#-19%DVTDocumentLocation2@237"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.png000000000080d041^920"CpResource CoreGraphicsBasics/2.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/2.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/2.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"73FC59AB-0099-4C66-AD5A-859FF994F752-
+
+CCpResource CoreGraphicsBasics/3.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png
+s402036657.748081
+e402036657.763240
+r1
+xCpResource
+xCoreGraphicsBasics/3.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png1493bfb197f6b741^5870c3b197f6b741^---0#0#0#-19%DVTDocumentLocation2@237"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png000000000080d041^920"CpResource CoreGraphicsBasics/3.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/3.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/3.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"44400C99-47D2-4681-8855-F4C55CC40107-
+
+CCpResource CoreGraphicsBasics/4.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.png
+s402036657.764491
+e402036657.794738
+r1
+xCpResource
+xCoreGraphicsBasics/4.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.pngf6cfc3b197f6b741^27c1cbb197f6b741^---0#0#0#-19%DVTDocumentLocation2@237"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.png000000000080d041^920"CpResource CoreGraphicsBasics/4.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/4.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/4.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"842C21D4-8133-4315-BFF0-EB2099CD76B2-
+
+CCpResource CoreGraphicsBasics/5.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png
+s402036657.766866
+e402036657.805641
+r1
+xCpResource
+xCoreGraphicsBasics/5.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png3c66c4b197f6b741^b473ceb197f6b741^---0#0#0#-19%DVTDocumentLocation2@237"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png000000000080d041^920"CpResource CoreGraphicsBasics/5.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/5.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/5.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"1E5A4646-9D49-40EF-AA75-09FC028C6E80-
+
+CCpResource CoreGraphicsBasics/6.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png
+s402036657.672636
+e402036657.691836
+r1
+xCpResource
+xCoreGraphicsBasics/6.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png9546acb197f6b741^cc29b1b197f6b741^---0#0#0#-19%DVTDocumentLocation2@237"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png000000000080d041^920"CpResource CoreGraphicsBasics/6.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/6.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/6.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"B8B1FB82-CD25-416D-882E-D8066F991E60-
+
+CCpResource CoreGraphicsBasics/64-60.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.png
+s402036657.780124
+e402036657.790072
+r1
+xCpResource
+xCoreGraphicsBasics/64-60.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.pnga2cfc7b197f6b741^685ecab197f6b741^---0#0#0#-19%DVTDocumentLocation2@241"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.png000000000080d041^932"CpResource CoreGraphicsBasics/64-60.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/64-60.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/64-60.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"DE9E5347-C80B-4DDA-B433-879B829B0BFC-
+
+CCpResource CoreGraphicsBasics/80-80.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png
+s402036657.794072
+e402036657.811985
+r1
+xCpResource
+xCoreGraphicsBasics/80-80.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png27a2cbb197f6b741^42e9cfb197f6b741^---0#0#0#-19%DVTDocumentLocation2@241"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png000000000080d041^932"CpResource CoreGraphicsBasics/80-80.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/80-80.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/80-80.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"B320E30D-39F6-4717-87C6-2FC5626095AC-
+
+CCpResource CoreGraphicsBasics/white.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.png
+s402036657.859978
+e402036657.864277
+r1
+xCpResource
+xCoreGraphicsBasics/white.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.pngc53bdcb197f6b741^5853ddb197f6b741^---0#0#0#-19%DVTDocumentLocation2@241"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.png000000000080d041^932"CpResource CoreGraphicsBasics/white.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/white.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"16798577-C1A5-4880-8CA8-4DC320BE0A77-
+
+CCpResource CoreGraphicsBasics/white1.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png
+s402036657.818683
+e402036657.836676
+r1
+xCpResource
+xCoreGraphicsBasics/white1.png
+xDerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png3babd1b197f6b741^bc3bd6b197f6b741^---0#0#0#-19%DVTDocumentLocation2@242"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png000000000080d041^935"CpResource CoreGraphicsBasics/white1.png DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/white1.png    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/white1.png" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"EC979BCA-C9C4-4F00-9A5B-5B32EC436A0C-
+
+CGenerateDSYMFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM" "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics"
+s402036657.630066
+e402036657.663598
+r1
+xGenerateDSYMFile
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection223"Generating /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYMf46da1b197f6b741^b1e1a9b197f6b741^---0#0#0#-19%DVTDocumentLocation2@236"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM000000000080d041^1091"GenerateDSYMFile DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app.dSYM"36"B5ECC364-B980-4D8C-AB85-328EAD710775-
+
+CLd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics" normal i386
+s402036657.598420
+e402036657.623091
+r1
+xLd
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"Link /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasicsfc5099b197f6b741^f5829fb197f6b741^---0#0#0#--1839"Ld DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics normal i386    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -filelist "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/Objects-normal/i386/CoreGraphicsBasics.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/CoreGraphicsBasics"36"8D416F06-A9F8-440E-892B-F032028C8EB3-
+
+CProcessInfoPlistFile "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/Info.plist" CoreGraphicsBasics/CoreGraphicsBasics-Info.plist
+s402036655.857794
+e402036655.862229
+r1
+xProcessInfoPlistFile
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/Info.plist
+xCoreGraphicsBasics/CoreGraphicsBasics-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Process CoreGraphicsBasics/CoreGraphicsBasics-Info.plist28b5dbaf97f6b741^b6badcaf97f6b741^---0#0#0#-19%DVTDocumentLocation2@189"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasics-Info.plist0000000000000000^1087"ProcessInfoPlistFile DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/Info.plist CoreGraphicsBasics/CoreGraphicsBasics-Info.plist    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreGraphicsBasics/CoreGraphicsBasics-Info.plist -genpkginfo "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app/Info.plist"36"B3A0B395-E5CA-477F-A79D-050E084C3F02-
+
+CProcessPCH "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch.gch" CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s402036655.870433
+e402036657.106706
+r1
+xProcessPCH
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch.gch
+xCoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pchbbf1deaf97f6b741^22521bb197f6b741^---0#0#0#-19%DVTDocumentLocation2@189"file://localhost/Users/apple/Desktop/saikumar%20office%20files/xcode%20related%20resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch0000000000000000^3764"ProcessPCH DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch.gch CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-generated-files.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-own-target-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-all-target-headers.hmap" -iquote "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/CoreGraphicsBasics-project-headers.hmap" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources/i386" "-I/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/CoreGraphicsBasics.build/Debug-iphonesimulator/CoreGraphicsBasics.build/DerivedSources" "-F/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator" -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch" -o "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Intermediates/PrecompiledHeaders/CoreGraphicsBasics-Prefix-dblbbzkelxhaupcmbwxpumaqyvec/CoreGraphicsBasics-Prefix.pch.gch"36"644ABC06-05F6-470B-BBE6-E4AD08A6B614-
+
+CProcessPCH "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Index/PrecompiledHeaders/CoreGraphicsBasics-Prefix-bjlrhmjetavyunbnanyqfdktmazc_ast/CoreGraphicsBasics-Prefix.pch.pth" CoreGraphicsBasics/CoreGraphicsBasics-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"
+s402036659.224199
+e402036659.228846
+r1
+xTouch
+x/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection213"Touch /Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app607839b397f6b741^a7953ab397f6b741^---0#0#0#--650"Touch DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app    cd "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/apple/Desktop/saikumar office files/xcode related resoureces/MyProjects/ImageGame/25:01:12/CoreGraphicsBasics/DerivedData/CoreGraphicsBasics/Build/Products/Debug-iphonesimulator/CoreGraphicsBasics.app"36"F1F3089B-7932-45FF-88E9-B28A53694ED1-
+
